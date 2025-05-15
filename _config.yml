@@ -1,7 +1,20 @@
 title: "Zhao Lingfeng's Portfolio"
 author: "Zhao Lingfeng"
 email: "zhaolin46366@gmail.com"
-description: "I am Zhao Lingfeng, a computer science engineer specializing in human-centered intelligent systems. Currently, I am pursuing my Master's degree at Kyushu Institute of Technology."
-linkedin_username: "lingfeng-zhao-380900338"
-github_username: "zhao-lingfeng"
+description: "A Master's student specializing in pose estimation and LLM-based human activity recognition."
 theme: minima
+
+# 导航栏配置（用于 future 扩展）
+navigation:
+  - title: "About"
+    url: "/about"
+  - title: "Contact"
+    url: "/contact"
+
+# GitHub Pages 使用默认路径部署即可
+url: "https://zhao-lingfeng.github.io"
+baseurl: ""
+
+# 如果你之后想启用 Google Analytics 或 favicon，可在这里加：
+# google_analytics: UA-XXXXXXXXX-X
+# favicon: /assets/img/favicon.ico
