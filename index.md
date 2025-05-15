@@ -10,9 +10,11 @@ title: "Zhao Lingfeng"
 
   <h2>👋 Welcome to my personal site!</h2>
 
-  <p><strong>About Me</strong> 🎓 I'm currently a Master's student at <strong>Kyushu Institute of Technology</strong> in Japan.</p>
+  <p><strong>About Me</strong><br>
+    
+  <p>🎓 I'm currently a Master's student at Kyushu Institute of Technology in Japan.</p>
 
-  <p>🧑‍🔬 I specialize in <strong>pose estimation</strong>, <strong>skeleton-based human activity recognition</strong>, and <strong>LLM-guided feature extraction</strong>.</p>
+  <p>🧑‍🔬 I specialize in Human Activity Recognition, Computer Vision, Image Classification・Recognition.</p>
 
   <h4>🛠 My core skills include:</h4>
 
