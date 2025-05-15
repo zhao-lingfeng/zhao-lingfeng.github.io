@@ -29,7 +29,7 @@ title: "Zhao Lingfeng"
 
   <!-- 右边：头像图像 -->
   <div style="flex-shrink: 0;">
-    <img src="assets/img/avatar.jpg" width="180px" style="border-radius: 10px; margin-top: 10px;">
+    <img src="assets/img/avatar.jpg" width="200px" style="border-radius: 10px; margin-top: 10px;">
   </div>
 
 </div>
