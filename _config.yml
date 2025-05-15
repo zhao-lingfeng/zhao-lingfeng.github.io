@@ -4,7 +4,7 @@ email: "zhaolin46366@gmail.com"
 description: "A Master's student specializing in pose estimation and LLM-based human activity recognition."
 theme: minima
 
-# 自定义导航栏（注意是导航顺序，不是页面顺序）
+# 导航栏
 navigation:
   - title: "About Me"
     url: /about
