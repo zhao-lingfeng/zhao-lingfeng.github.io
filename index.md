@@ -10,7 +10,7 @@ title: "Zhao Lingfeng"
 
   <h2>👋 Welcome to my personal site!</h2>
 
-  <p><strong>About Me</strong><br>
+  <p><strong>About Me</strong>
     
   <p>🎓 I'm currently a Master's student at Kyushu Institute of Technology in Japan.</p>
 
