@@ -1,8 +1,6 @@
 ---
-widget: about
-active: true
-weight: 1
-title: "About Me"
+layout: home
+title: "Zhao Lingfeng"
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 30px;">
