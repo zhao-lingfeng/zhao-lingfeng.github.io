@@ -9,8 +9,8 @@ title: "Zhao Lingfeng"
   <div style="flex: 1;">
     <h2>👋 Welcome to my personal site!</h2>
     <p>
-      <strong>About Me 🎓</strong><br>
-      I'm currently a Master's student at <strong>Kyushu Institute of Technology</strong> in Japan.<br><br>
+      <strong>About Me</strong><br>
+      🎓 I'm currently a Master's student at <strong>Kyushu Institute of Technology</strong> in Japan.<br><br>
       🧑‍🔬 I specialize in <strong>Human Activity Recognition</strong>, <strong>Computer Vision</strong>, and <strong>Image Classification・Recognition</strong>.
     </p>
     <h4>🛠 My core skills include:</h4>
