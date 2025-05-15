@@ -1,16 +1,17 @@
-title: "Portfolio"
+title: "Zhao Lingfeng's Website"
 author: "Zhao Lingfeng"
 email: "zhaolin46366@gmail.com"
 description: "A Master's student specializing in pose estimation and LLM-based human activity recognition."
 theme: minima
 
-# 导航栏配置
+# 自定义导航栏（注意是导航顺序，不是页面顺序）
 navigation:
-  - title: "About"
-    url: "/about"
-  - title: "Contact"
-    url: "/contact"
+  - title: "About Me"
+    url: /about
+  - title: "Portfolio"
+    url: /portfolio
+  - title: "Contact Me"
+    url: /contact
 
-# GitHub Pages 使用默认路径部署即可
 url: "https://zhao-lingfeng.github.io"
 baseurl: ""
