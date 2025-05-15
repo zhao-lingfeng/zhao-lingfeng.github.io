@@ -1,13 +1,11 @@
 ---
 layout: home
-title: "Zhao Lingfeng"
+title: "👋 Welcome to my personal site!"
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 30px;">
 
 <div style="flex: 1;">
-
-### 👋 Welcome to my personal site!
 
 **About Me**
 
