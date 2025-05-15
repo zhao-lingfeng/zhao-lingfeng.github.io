@@ -1,25 +1,27 @@
 ---
 layout: home
-title: "👋 Welcome to my personal site!"
+title: "Zhao Lingfeng"
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 30px;">
 
-<div style="flex: 1;">
+  <div style="flex: 1;">
 
-**About Me**
+  <h2>👋 Welcome to my personal site!</h2>
 
-🎓 I'm currently a Master's student at **Kyushu Institute of Technology** in Japan.  
-🔬 I specialize in **pose estimation**, **skeleton-based human activity recognition**, and **LLM-guided feature extraction**.  
-🛠 My core skills include:  
-&nbsp;&nbsp;&nbsp;&nbsp;• Python, PyTorch, OpenCV  
-&nbsp;&nbsp;&nbsp;&nbsp;• Scikit-learn, MediaPipe  
-&nbsp;&nbsp;&nbsp;&nbsp;• GitHub, NumPy, Pandas  
+  <p><strong>About Me</strong> 🎓 I'm currently a Master's student at <strong>Kyushu Institute of Technology</strong> in Japan. 🧑‍🔬 I specialize in <strong>pose estimation</strong>, <strong>skeleton-based human activity recognition</strong>, and <strong>LLM-guided feature extraction</strong>.</p>
+
+  <p>🧠 My core skills include:  
+  • Python, PyTorch, OpenCV  
+  • Scikit-learn, MediaPipe  
+  • GitHub, NumPy, Pandas
+  </p>
+
+  </div>
+
+  <div style="flex-shrink: 0;">
+    <img src="assets/img/avatar.jpg" width="180px" style="border-radius: 10px; margin-top: 10px;">
+  </div>
 
 </div>
 
-<div style="flex-shrink: 0;">
-  <img src="assets/img/avatar.jpg" width="180px" style="border-radius: 10px; margin-top: 10px;">
-</div>
-
-</div>
