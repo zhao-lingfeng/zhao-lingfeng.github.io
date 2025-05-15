@@ -1,11 +1,29 @@
 ---
-layout: home
-title: "Zhao Lingfeng"
+widget: about
+active: true
+weight: 1
+title: "About Me"
 ---
 
-![avatar](assets/img/avatar.jpg)
+<div style="display: flex; align-items: flex-start; gap: 30px;">
 
-Welcome to my personal site!
+<div style="flex: 1;">
 
-I am Zhao Lingfeng, a computer science engineer specializing in human-centered intelligent systems.
-Currently, I am pursuing my Master's degree at Kyushu Institute of Technology.
+### 👋 Welcome to my personal site!
+
+**About Me**
+
+🎓 I'm currently a Master's student at **Kyushu Institute of Technology** in Japan.  
+🔬 I specialize in **pose estimation**, **skeleton-based human activity recognition**, and **LLM-guided feature extraction**.  
+🛠 My core skills include:  
+&nbsp;&nbsp;&nbsp;&nbsp;• Python, PyTorch, OpenCV  
+&nbsp;&nbsp;&nbsp;&nbsp;• Scikit-learn, MediaPipe  
+&nbsp;&nbsp;&nbsp;&nbsp;• GitHub, NumPy, Pandas  
+
+</div>
+
+<div style="flex-shrink: 0;">
+  <img src="/media/avatar.jpg" width="180px" style="border-radius: 10px; margin-top: 10px;">
+</div>
+
+</div>
