@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xianwen Ling"
+title                    : "Lingfeng Zhao"
 title_separator          : "-"
-name                     : &name "Xianwen Ling"
-description              : &description "Doctoral student in NJUST"
-url                      : https://lingxianwen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lingfeng Zhao"
+description              : &description "Master student at Kyutech"
+url                      : https://zhao-lingfeng.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,17 +22,17 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xianwen Ling"
+  name             : "Lingfeng Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Doctoral student in NJUST"
-  location         : "Nanjing, China"
+  bio              : "Master's student at Kyutech"
+  location         : "Jinan, China"
   #employer         : "Red Brick University"
   uri              : # URL
-  email            : "17756013567@163.com" 
+  email            : "zhaolin46366@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=sx5zDfoAAAAJ"
+  googlescholar    :  # "https://scholar.google.com/citations?hl=zh-CN&user=sx5zDfoAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Lingxianwen"
+  github           : "zhao-lingfeng"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
