@@ -5,7 +5,7 @@ permalink: /publication/2025-06-25-paper-title-number-2
 date: 2023-08-03
 venue: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
 paperurl: 'http://lingxianwen.github.io/files/paper2.pdf'
-citation: 'Lingfeng Zhao*, Christina Garcia, 小水内 俊介, コリー 紀代, 佐藤 敦子, 河内山 真由美, 那須 敏子, 井上 創造'
+citation: 'Zhao Lingfeng*, Christina Garcia, 小水内 俊介, コリー 紀代, 佐藤 敦子, 河内山 真由美, 那須 敏子, 井上 創造'
 ---
 
-We propose a theoretical percolation model to analyze the robustness of directed higher-order networks. We study the size of the giant connected components and the percolation threshold of our proposed model by the theory and Monte-Carlo simulations on artificial networks and real-world networks. We find that the percolation threshold is affected by the inherent properties of higher-order networks, including the heterogeneity of the hyperdegree distribution and the hyperedge cardinality, which represents the number of nodes in the hyperedge. Increasing the hyperdegree distribution of heterogeneity or the hyperedge cardinality distribution of heterogeneity in higher-order networks will make the network more vulnerable, weakening the higher-order network’s robustness. In other words, adding higher-order directed edges enhances the robustness of the systems. Our proposed theory can reasonably predict the simulations for percolation on artificial and real-world directed higher-order networks.
+本研究の目的は，経管栄養（Gastrostomy Tube Feeding：GTF）の看護行動認識精度を向上させることである．GTFの動作は，短時間動作が長時間動作に埋もれやすく，時系列制約が考慮されないという課題があるため，既存手法では適切な認識が困難である．本研究では，ビデオに基づく姿勢推定と大規模言語モデル（LLM）を活用し，時系列文脈を考慮した特徴量の自動生成および手作業設計特徴との統合により認識精度の向上を図る．さらに，多数決による時間窓平滑化と短時間動作の優先処理を組み合わせた後処理手法を提案し，誤検出の低減を試みた．実験では，中国労災病院で収集されたGTFデータセットを用いて提案手法の有効性を検証した．このデータセットには，看護師、看護教員、看護学生の3グループが3日間にわたり実施した計17種類の動作が含まれている．実験の結果，従来の手法と比較して，F1スコアが53%から66%へと向上し，後処理手法の導入により，最終的にF1スコアは68%に向上した．本研究は，看護師が行う多数のスキルの中でも特に誤認識リスクの高い経管栄養に注目し，その認識精度を向上させることで，教育現場における定量的かつ客観的な評価支援を実現する可能性を示した．
