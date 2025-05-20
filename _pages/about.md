@@ -7,47 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-I'm a First-year doctoral student from [School of Computer Science and Engineering](https://cs.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). 
+I’m a Master’s student at [Kyushu Institute of Technology](https://www.kyutech.ac.jp/), working on human behavior recognition in medical scenarios using pose estimation and AI technologies.
 
-I am very fortunate to be advised by [Prof. Kun Zhang](http://kunzhangcn.net/) from [School of CSE](https://www.njust.edu.cn/), NJUST. I also worked closely with [Prof. Hao Peng](https://mypage.zjnu.edu.cn/hpeng/zh_CN/) and [Prof. Wei Wang](https://gwgl.cqmu.edu.cn/info/1214/5264.htm) during my M.S. time.
-
-My research interest includes Network science, network security.
+My research focuses on Human Activity Recognition, Image Recognition, and Computer Vision. And i am also interested in applying machine learning models to analyze visual information and improve intelligent recognition systems.
 
 ## Education Experience
-* Ph.D in Nanjing, Nanjing University of Science and Technology, 2028 (expected)
-* M.S. in Jinhua, Zhejiang Normal University, 2021
-* B.S. in Tongling, Tongling University, 2017
+* M.S. in Human Intelligence Systems, Department of Human Intelligence Systems, Graduate School of Life Science and Systems Engineering, Kyushu Institute of Technology, Japan, 2026.3（expected）
+* B.S. in Electrical Engineering and Computer Science, School of Industrial and Welfare Engineering, Tokai University, Japan, 2024.3  
 
 ## Skills
-* Network science
-  * Network reliability analysis
-  * Complex network visualization
-* Network security
-  * Protocol Reverse Engineering
+* Human Activity Recognition  
+* Image Recognition
+* Computer Vision  
+* Machine Learning  
+* Feature Engineering  
+* Programming & Tools  
+  * Languages: Python, C, Java, etc.  
+  * Libraries & Frameworks: NumPy, pandas, PyTorch, Scikit-learn, Matplotlib, etc.  
+  * Tools: Google Colab, Jupyter Notebook, GitHub, VS Code, PyCharm, LaTeX, etc.
 
 ## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-## Participate in a project or competition
-* ​Jiangsu Province Graduate Student Scientific Research and Practical Innovation Program, 2025-2026
-* National key research and development project (participation), 2023
-* National Innovation and Entrepreneurship Training Program (hosted), 2019.09-2020.05
-* The Huawei Cup Postgraduate Mathematical Modeling Competition third prize, 2021
-* China University Student Computer Design Competition, 2020
-* Anhui University Student Service Outsourcing Innovation and Entrepreneurship Competition first prize, 2020
-* Anhui Internet of Things Innovation Competition first prize, 2020
-* Anhui Province mathematics contest second prize, 2020
-* Anhui Province information security works competition third prize, 2020
-* Anhui Province Network Attack and Defense Competition (CTF) second prize, 2020
-* Anhui Computer Design Competition second prize, 2020
-* Anhui Robot Competition Program Design Class (ACM) third prize, 2019
+## Certifications and Qualifications
+* Student Member, Institute of Electrical and Electronics Engineers (IEEE)  
+* Student Member, Information Processing Society of Japan (IPSJ)  
+* Completed GAAR Course (Global Advanced Assistive Robotics) , Kyushu Institute of Technology
 
-## Honors & Awards
-* National Scholarship, 2023
-* Special Award of President of Zhejiang Normal University, 2023
-* Outstanding Graduate of Zhejiang Normal University, 2023
-* Outstanding Graduate of Anhui province, 2016
-
-[Email](mailto:lingxw@njust.edu.cn) / [Github](https://github.com/Lingxianwen) / [CSDN](https://lingxw.blog.csdn.net/)
+[Email](mailto:zhaolin46366@gmail.com) / [Github](https://github.com/zhao-lingfeng) / [LINKEDIN](https://www.linkedin.com/in/lingfeng-zhao-380900338/)
