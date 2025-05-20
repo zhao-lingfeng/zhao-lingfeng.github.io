@@ -24,8 +24,6 @@ My research focuses on Human Activity Recognition, Image Recognition, and Comput
 * Programming & Tools
 
 ## Programming & Tools
-<p align="left">
-
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://gcc.gnu.org/)
 [![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)](https://www.java.com/)
@@ -42,8 +40,6 @@ My research focuses on Human Activity Recognition, Image Recognition, and Comput
 [![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)](https://www.latex-project.org/)
-
-</p>
 
 
 ## Publications
