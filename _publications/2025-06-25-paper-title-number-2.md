@@ -3,7 +3,7 @@ title: "大規模言語モデルを活用した経管栄養における看護行
 collection: publications
 permalink: /publication/2025-06-25-paper-title-number-2
 date: 2025-06-03 ～ 06-03
-venue: '情報処理学会 マルチメディア、分散、協調とモバイル(DICOMO2025)シンポジウム（発表予定）'
+venue: '情報処理学会 マルチメディア、分散、協調とモバイル（DICOMO2025）シンポジウム（発表予定）'
 paperurl: 'http://zhao-lingfeng.github.io/files/paper2.pdf'
 citation: 'Zhao Lingfeng*, Christina Garcia, 小水内 俊介, コリー 紀代, 佐藤 敦子, 河内山 真由美, 那須 敏子, 井上 創造'
 ---
