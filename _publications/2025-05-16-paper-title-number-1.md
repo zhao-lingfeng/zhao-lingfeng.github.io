@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2025-05-16-paper-title-number-1
 # excerpt: 'xxxx'
 date: 2022-04-27
-venue: 'Journal of King Saud University - Computer and Information Sciences'
-paperurl: 'http://lingxianwen.github.io/files/paper1.pdf'
+venue: '7th International Conference on Activity and Behavior Computing (ABC 2025), Khalifa University, Abu Dhabi, UAE
+paperurl: 'http://zhao-lingfeng.github.io/files/paper1.pdf'
 citation: 'Lingfeng Zhao*, Christina Garcia, Shunsuke Komizunai, Noriyo Colley, Atsuko Sato, Mayumi Kouchiyama, Toshiko Nasu, Sozo Inoue'
 ---
 
