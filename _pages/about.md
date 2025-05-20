@@ -24,7 +24,6 @@ My research focuses on Human Activity Recognition, Image Recognition, and Comput
 * Programming & Tools
 
 ## Programming & Tools
-
 <p align="left">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
