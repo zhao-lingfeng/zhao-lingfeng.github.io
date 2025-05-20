@@ -12,8 +12,8 @@ I’m a Master’s student at [Kyushu Institute of Technology](https://www.kyute
 My research focuses on Human Activity Recognition, Image Recognition, and Computer Vision. And i am also interested in applying machine learning models to analyze visual information and improve intelligent recognition systems.
 
 ## Education Experience
-* M.S. in Human Intelligence Systems, Department of Human Intelligence Systems, Graduate School of Life Science and Systems Engineering, Kyushu Institute of Technology, Japan, 2026.3（expected）
-* B.S. in Electrical Engineering and Computer Science, School of Industrial and Welfare Engineering, Tokai University, Japan, 2024.3  
+* M.S. in Human Intelligence Systems, Department of Human Intelligence Systems, Graduate School of Life Science and Systems Engineering, Kyushu Institute of Technology, Japan. 2026.3（expected）.
+* B.S. in Electrical Engineering and Computer Science, School of Industrial and Welfare Engineering, Tokai University, Japan. 2024.3.
 
 ## Skills
 * Human Activity Recognition  
@@ -22,9 +22,24 @@ My research focuses on Human Activity Recognition, Image Recognition, and Comput
 * Machine Learning  
 * Feature Engineering  
 * Programming & Tools  
-  * Languages: Python, C, Java, etc.  
-  * Libraries & Frameworks: NumPy, pandas, PyTorch, Scikit-learn, Matplotlib, etc.  
-  * Tools: Google Colab, Jupyter Notebook, GitHub, VS Code, PyCharm, LaTeX, etc.
+## Programming & Tools
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://gcc.gnu.org/)
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)
+
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+
+[![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)](https://www.latex-project.org/)
+
 
 ## Publications
   <ul>{% for post in site.publications reversed %}
